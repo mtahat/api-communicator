@@ -18,10 +18,12 @@ this application has been develop for interview perp.
 	2- state name: first letter should be upper case, for example: New York
 	3- all : shows you total number of states hosted by the service.
    - return > **results** taken from the response.
+   
+> **Main Integration Test**
 
-**RestApplicationTest.java** : 
-**Main Integration Test** : Parameterized test, this covers 
-   1- all happy scenarios for the 55 
-   2- states that the service support, plus the 'all' option.
-   3- also this class cover the integration part between the Application, Domain and Util classes.
+  **RestApplicationTest.java** : 
+    Parameterized test, this covers 
+     1- all happy scenarios for the 55 
+     2- states that the service support, plus the 'all' option.
+     3- also this class cover the integration part between the Application, Domain and Util classes.
 

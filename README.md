@@ -1,11 +1,13 @@
 # api-communicator
 
 ---------------------Created By Marco Tahat----------------------------------------------------
+
 This is Simple Java application shows how to communicate and consume rest service.
 this application has been develop for interview perp.
 
 
 ---------------------Main Classes---------------------------------------------------------------
+
 RestApplication.java: Main Method, run this project as Java Application 
 
 @param RestClient -- the client to consume the API
@@ -21,5 +23,6 @@ RestApplicationTest.java : Main Integration Test
 Parameterized test, this covers all happy scenarios for the 55
 	* states that the service support, plus the 'all' option.
 	* also this class cover the integration part between the Application, Domain and Util classes.
-	*/
+	
+	
 -------------------------------------------------------------------------------------------------

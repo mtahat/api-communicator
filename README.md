@@ -20,10 +20,8 @@ this application has been develop for interview perp.
 	 - return **results** taken from the response.
 
 **RestApplicationTest.java** : 
-         - Main Integration Test : Parameterized test, this covers 
-	     - all happy scenarios for the 55
-	     - states that the service support, plus the 'all' option.
-	     - also this class cover the integration part between the Application, Domain and Util classes.
-	
-	
--------------------------------------------------------------------------------------------------
+	- **Main Integration Test** : Parameterized test, this covers 
+	     1- all happy scenarios for the 55
+	     2- states that the service support, plus the 'all' option.
+	     3- also this class cover the integration part between the Application, Domain and Util classes.
+

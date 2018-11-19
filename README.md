@@ -2,8 +2,22 @@
 
 > **Created By Marco Tahat**
 
-This is Simple Java application shows how to communicate and consume rest service.
+This is Simple Java/gradle application shows how to communicate and consume rest service.
 this application has been develop for interview perp.
+
+>**Install & Run Application**
+I used gradle to build the project dependencies, so after you clone this project follow these stesps:
+ - from eclipse main menu go to File > import
+ - Select **Existing gradle Project** > Project Root Directory
+ - Browser to your project root 'your local path'\api-communicator
+ - Click **Finish** the project will be imported.
+ - Navigate to **RestApplication.java** in src/main/java
+ - Right Click on the Class name, then choose **Run As Java Application**
+ - From the **Console View** Enter your Input.
+ - Any time you can exit by typing **Exit**
+ - DONE! 
+
+> **The Design**
 
 ![design](https://user-images.githubusercontent.com/45109004/48676622-e783d600-eb2e-11e8-9222-0cb591d36529.png)
 
@@ -26,7 +40,7 @@ Main Method, run this project as Java Application
  - states that the service support, plus the 'all' option.
  - also this class cover the integration part between the Application, Domain and Util classes.
  
- >**Install Project**
+
  
  
 
